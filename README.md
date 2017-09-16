@@ -1,2 +1,2 @@
-# alwayforward
-Alway bet on Node.js ✨
+# alwaysforward
+Always bet on Node.js ✨
