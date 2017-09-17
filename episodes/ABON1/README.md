@@ -20,6 +20,10 @@ Recorded live on Sunday, September 17, 2017 at 11am PT with participants on a co
 
 No agenda
 
+## Media
+
+* [Live episode recording trimmed](https://www.dropbox.com/s/1l2v6qsylj6392p/ABON1-raw-trimmed-2017-09017.wav?dl=0)
+
 ## Transcript
 
 Not available
