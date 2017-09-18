@@ -22,7 +22,8 @@ No agenda
 
 ## Media
 
-* [Live episode recording trimmed](https://www.dropbox.com/s/1l2v6qsylj6392p/ABON1-raw-trimmed-2017-09017.wav?dl=0)
+* [Live episode recording trimmed](https://www.dropbox.com/s/1l2v6qsylj6392p/ABON1-raw-trimmed-2017-09017.wav?dl=0) - WAV file
+* [ABON1 - Modern Modules with Mikeal Rogers [Live Trimmed]](https://soundcloud.com/dshaw/abon1-modern-modules-with-mikeal-rogers-live-trimmed) - on SoundCloud
 
 ## Transcript
 
