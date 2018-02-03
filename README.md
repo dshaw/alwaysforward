@@ -7,7 +7,7 @@ Episodic content focused on Node.js and JS ecosystems, executive strategy, commu
 
 ## When
 
-Currently opertunistic.
+Every 2nd Tuesday of the month at 10am PT on [Crowdcast](https://www.crowdcast.io/dshaw).
 
 ## Why
 
