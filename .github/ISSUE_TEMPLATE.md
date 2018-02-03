@@ -8,7 +8,9 @@ TBD
 
 ## Participant(s)
 
-* Dan Shaw - @dshaw
+* Dan Shaw - @dshaw - Strategic Advisor
+
+CANDIDATES:
 * 
 
 ## Schedule
@@ -29,4 +31,4 @@ Not available
 
 ## Meta
 
-#ABON #AlwaysForward #nodejs
+#dshawaf #AlwaysForward #nodejs
