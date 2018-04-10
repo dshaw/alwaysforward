@@ -1,4 +1,4 @@
-# alwaysforward
+# _Always Forward_ with dshaw 
 Always bet on Node.js ✨
 
 ## What
@@ -12,3 +12,9 @@ Every 2nd Tuesday of the month at 10am PT on [Crowdcast](https://www.crowdcast.i
 ## Why
 
 Dive into the origin story: [Node.js — Always Forward ✨](https://medium.com/@dshaw/node-js-always-forward-ae5f9e0853ab?source=linkShare-7c861ae496fa-1505827212)
+
+--
+
+## Episodes
+
+* [#dshawaf1 - Going to Market with Node.js](/episodes/dshawaf1/)
